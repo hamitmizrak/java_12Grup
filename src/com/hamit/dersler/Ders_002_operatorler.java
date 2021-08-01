@@ -13,8 +13,8 @@ public class Ders_002_operatorler {
 		System.out.println("bölümünde kalan : " + (sayi1 % sayi2));
 
 		// artırma operatörü
-		++sayi2; // önce 1 artır sonra işlem yap
-		sayi2++; // önce işlem yap sonra 1 artır
+		++sayi2; // önce 1 artır sonra işlem yap.
+		sayi2++; // önce işlem yap sonra 1 artır.
 		System.out.println(sayi2);
 	}
 
