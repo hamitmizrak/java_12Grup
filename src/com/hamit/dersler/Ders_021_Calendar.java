@@ -4,7 +4,7 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Locale;
 
-public class Ders_021_Calendat {
+public class Ders_021_Calendar {
 
 	// Date
 	// @Deprecated ==> Date

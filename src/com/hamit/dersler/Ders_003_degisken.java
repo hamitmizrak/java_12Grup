@@ -12,7 +12,7 @@ public class Ders_003_degisken {
 		int sayi3, sayi4, sayi5, sayi6;
 
 		// Türkçe karakter yazmayalım
-		byte üğşçö = 44;
+		byte b1= 44;
 
 		// sayı ile başlama
 		// short 44s1;
