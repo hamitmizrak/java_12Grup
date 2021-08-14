@@ -1,6 +1,6 @@
 package com.hamit.ornekler;
 
-import java.util.Scanner;
+
 
 
 public class Ornekler_006 {
