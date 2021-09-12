@@ -10,6 +10,8 @@ public class DecoderEncoder {
 	
 	public static String kelimeGir() {
 		
+		
+		
 		Scanner klavye=new Scanner(System.in);
 		System.out.println ( "Lütfen bir kelime giriniz" ); 
 		
