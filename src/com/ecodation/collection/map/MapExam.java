@@ -16,6 +16,7 @@ public class MapExam {
 		//TreeMap
 		Map <String , Object> mapList=new HashMap<> () ;
 		mapList.put ( "1" , new Student ( "Server" ) );
+		mapList.put ( "1" , new Student ( "Serverx" ) );
 		mapList.put ( "2" , new Student ( "Mert" ) );
 		mapList.put ( "3" , new Student ( "Hamit" ) );
 		
