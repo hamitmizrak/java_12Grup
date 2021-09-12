@@ -11,7 +11,8 @@ public class DecoderEncoder {
 	public static String kelimeGir() {
 		
 		Scanner klavye=new Scanner(System.in);
-		System.out.println ( "Lütfen bir kelime giriniz" );
+		System.out.println ( "Lütfen bir kelime giriniz" ); 
+		
 		String kelime=klavye.nextLine ( );
 		return kelime;
 	}
